@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19749" started-at="2020-03-21T00:00:18 EDT" finished-at="2020-03-21T00:00:38 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19749" started-at="2020-03-21T00:00:18 EDT" finished-at="2020-03-21T00:00:38 EDT">
+      <class name="testCases.loginRunner">
+        <test-method status="PASS" signature="objectRunner()[pri:0, instance:testCases.loginRunner@6e0e048a]" name="objectRunner" duration-ms="19713" started-at="2020-03-21T00:00:18 EDT" finished-at="2020-03-21T00:00:38 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectRunner -->
+      </class> <!-- testCases.loginRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
