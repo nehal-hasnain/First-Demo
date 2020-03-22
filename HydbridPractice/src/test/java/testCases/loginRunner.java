@@ -37,6 +37,8 @@ public class loginRunner {
 				objectReader.Logout();
 			}
 		}
+		
+		System.out.println("This is a practice");
 	}
 
 }
