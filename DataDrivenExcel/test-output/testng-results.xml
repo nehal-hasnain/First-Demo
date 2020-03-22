@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24446" started-at="2020-03-18T01:26:35Z" finished-at="2020-03-18T01:27:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24446" started-at="2020-03-18T01:26:35Z" finished-at="2020-03-18T01:27:00Z">
+      <class name="testCases.T01_logInValidationExcel">
+        <test-method status="PASS" signature="browserSetUp()[pri:0, instance:testCases.T01_logInValidationExcel@d8355a8]" name="browserSetUp" is-config="true" duration-ms="10631" started-at="2020-03-18T01:26:35Z" finished-at="2020-03-18T01:26:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method status="PASS" signature="userLogIn()[pri:0, instance:testCases.T01_logInValidationExcel@d8355a8]" name="userLogIn" duration-ms="13734" started-at="2020-03-18T01:26:46Z" finished-at="2020-03-18T01:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogIn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.T01_logInValidationExcel@d8355a8]" name="tearDown" is-config="true" duration-ms="62" started-at="2020-03-18T01:27:00Z" finished-at="2020-03-18T01:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.T01_logInValidationExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
